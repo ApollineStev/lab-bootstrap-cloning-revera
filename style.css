@@ -1,0 +1,14 @@
+body {
+    margin:auto
+}
+
+
+
+
+.nav-link {
+    color: rgb(200, 183, 183);
+}
+
+.span:hover {
+    color: black;
+}
