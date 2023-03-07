@@ -12,3 +12,7 @@ body {
 .span:hover {
     color: black;
 }
+
+.carousel img{
+   filter: grayscale(100%);
+}
